@@ -1,2 +1,2 @@
 print('Probando Git')
-print('egunda linea') 
+print('egunda linea')
